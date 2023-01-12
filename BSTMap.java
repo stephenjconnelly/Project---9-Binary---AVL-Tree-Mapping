@@ -2,7 +2,8 @@ import java.lang.*;
 /**
  * Class that implements a binary search tree which implements the MyMap
  * interface.
- * @author Brian S. Borowski
+ * @author Stephen James Connelly - iterativeSearch, size, isEmpty, remove, createBST, put. 
+ * @author Brian S. Borowski -  others
  * @version 1.0 October 19, 2022
  */
 
