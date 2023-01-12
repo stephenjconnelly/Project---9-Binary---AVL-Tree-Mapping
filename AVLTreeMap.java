@@ -1,6 +1,7 @@
 /**
  * Class that implements an AVL tree which implements the MyMap interface.
- * @author Brian S. Borowski
+ * @author Stephen James Connelly - methods: rotateRight Child, rotateLeftChild, insert, balance, remove. 
+ * @author Brian S. Borowski - others
  * @version 1.0 October 28, 2022
  */
 public class AVLTreeMap<K extends Comparable<K>, V> extends BSTMap<K, V>
